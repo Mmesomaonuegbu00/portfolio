@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@theme {
+  /* Set League Spartan as the primary sans font */
+  --font-sans: "League Spartan", ui-sans-serif, system-ui, sans-serif;
+}
+
+/* Global resets for the "Creative Engineer" aesthetic */
+:root {
+  font-family: var(--font-sans);
+
+  color: white;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  background: #080a1a;
+  margin: 0;
+  overflow-x: hidden;
+}
+
+
+ 
