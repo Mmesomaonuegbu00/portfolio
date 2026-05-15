@@ -73,7 +73,7 @@ export const projects = [
     description: 'Responsive invoice management application with full CRUD functionality, allowing users to create, edit, update, and delete invoices efficiently. Includes modern UI, dark and light mode support, form validation, and organized invoice tracking.',
     tech: ['Next.js', 'TypeScript', 'TailwindCSS', 'Context API'],
     images: [in1, in2],
-    link: '#',
+    link: 'https://hng-invoice.vercel.app/',
     keyFeatures: [
       'Full CRUD operations for digital invoice management',
       'Real-time total calculations and tax adjustments',
@@ -97,7 +97,7 @@ export const projects = [
     description: 'Private real-time messaging application built with end-to-end encryption for secure communication. Users can authenticate using generated public and private keys, chat securely, and enjoy a fully responsive and modern messaging interface.',
     tech: ['React', 'TypeScript', 'TailwindCSS', 'Socket.io'],
     images: [su1, su2],
-    link: '#',
+    link: 'https://sumchat-hng.vercel.app/',
     keyFeatures: [
       'End-to-end encryption for all message payloads',
       'Real-time communication using Socket.io bi-directional pipes',
@@ -121,7 +121,7 @@ export const projects = [
     description: 'Professional and responsive portfolio website built for a public health brand to showcase services, achievements, projects, and brand identity. Designed with clean layouts, smooth navigation, and strong visual storytelling.',
     tech: ['Next.js', 'TailwindCSS', 'Framer Motion'],
     images: [de1, de2],
-    link: '#',
+    link: 'https://deborahonuegbu.vercel.app/',
     keyFeatures: [
       'Interactive service showcases with Framer Motion',
       'Dynamic project gallery with filtered views',
@@ -145,7 +145,7 @@ export const projects = [
     description: 'Lightweight and visually appealing search engine interface that allows users to search and display web-based results dynamically. Features responsive layouts, clean UI design, and smooth search interactions.',
     tech: ['JavaScript', 'React', 'TailwindCSS', 'REST API'],
     images: [se1, se2],
-    link: '#',
+    link: 'https://pro-search-ten.vercel.app/',
     keyFeatures: [
       'Dynamic API data fetching for real-time results',
       'Debounced search input to minimize API overhead',
